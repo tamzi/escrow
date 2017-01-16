@@ -17,3 +17,10 @@ Escrow Service Providers(ESPs) reduces the risk of fraud by acting as a trusted 
 4. Buyer accepts merchandise - The Buyer has a set number of days to inspect the merchandise and the option to accept or reject it. The Buyer accepts the merchandise
 5. ESP pays the Seller - the ESP releases funds to the Seller from the Escrow Account.
 6. Transaction is complete - safely and securely!
+
+# Motivation
+I have fallen prey, and many of my friends have fallen victim to numerous online purchase scamms amnd also receiving low quality goods from rogue people. The reeerse for buyers is also true.
+I set out to solve this problem by looking at ways in which i could solve the challenge of payments receipts from online purchases.
+I encountered alibaba who were using this system and thought, what if i could empower all the developers seeking to build out ecommerce websites where goods and money exchange hands and no trust/ knowing people exists from before:
+  1. I mean i do not know the guy who i am purchasing goods from in person.
+  2. They are not physically located at a place i can go and pay money and collect it.
