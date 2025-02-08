@@ -24,3 +24,7 @@ I set out to solve this problem by looking at ways in which i could solve the ch
 I encountered alibaba who were using this system and thought, what if i could empower all the developers seeking to build out ecommerce websites where goods and money exchange hands and no trust/ knowing people exists from before:
   1. I mean i do not know the guy who i am purchasing goods from in person.
   2. They are not physically located at a place i can go and pay money and collect it.
+
+
+# docs
+1. [Architecture doc](docs/architecture.md)
