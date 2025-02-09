@@ -2,3 +2,6 @@
 bootstrap.json
 build/
 ext/
+.idea/vcs.xml
+.idea/misc.xml
+/.idea
