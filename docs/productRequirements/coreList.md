@@ -1,39 +1,32 @@
 ### Product requirements
 
+#### Important features
+1. Core Escrow Functionality 
+   - User & Role Management 
+   - Payment & Funds Handling
+   - Dispute Resolution & Arbitration
+   - Compliance & Security 
+   - Notifications & Communication
+   - Reporting & Analytics
+   - Admin & Support Dashboard
+   - Compliance & Regulatory Enhancements
+   - Transaction history and audit logs
+   - Handle all modes of transactions
+     - One off payments (cash-based transactions with an intermediary)
+     - Subscriptions & Recurring Payments
 
-1. Core Escrow Functionality
-
-2. User & Role Management
-
-3. Payment & Funds Handling
-
-4. Dispute Resolution & Arbitration
-
-5. Compliance & Security
-
-6. Notifications & Communication
-
-7. API & Integration
-
-8. Reporting & Analytics
-
-9. Admin & Support Dashboard
-
-10. Scalability & Performance
+#### Later
+Multi-Tier Escrow & Escrow Chaining
+AI & Fraud Detection
+Internationalization & Localization
+Offline & Alternative Payment Methods
+Dynamic Pricing & Fee Structures
 
 
-11. Multi-Tier Escrow & Escrow Chaining
+#### Later 
+Buy Now, Pay Later (BNPL) & Credit-Based Escrow
+Public API & Integration(other apps depend on escrow)
+Scalability & Performance
+Webhooks for real-time updates
+SDKs for mobile and web applications
 
-12. Dynamic Pricing & Fee Structures
-
-13. Compliance & Regulatory Enhancements
-
-14. AI & Fraud Detection
-
-15. Internationalization & Localization
-
-16. Offline & Alternative Payment Methods
-
-17. Subscription & Recurring Payments
-
-18. Buy Now, Pay Later (BNPL) & Credit-Based Escrow
